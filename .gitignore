@@ -1,0 +1,7 @@
+# MATLAB autosave files can contain obsolete local paths.
+*.asv
+
+# Common operating-system metadata files
+.DS_Store
+Thumbs.db
+
