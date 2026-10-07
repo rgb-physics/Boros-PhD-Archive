@@ -12,9 +12,7 @@ A consolidated, private archival copy of the legacy Active Foam and Active Foam 
 
 ## Archive notes
 
-- The Chan-Vese folder and contents, ChenVese_Extracted.m
 - Absolute paths in .m files were redacted. Session and Exp identifiers remain in path-derived values as reference metadata; some values are empty where neither identifier was present.
-- MATLAB autosave files remain in the local folder but are excluded by .gitignore and omitted from this tree. Confirm they are not staged before pushing.
 - README_dependencies.txt lists gfilter. Other external-library references are present in source comments and should be reviewed before public release.
 
 ## Folder and function tree
